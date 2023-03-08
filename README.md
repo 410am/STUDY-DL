@@ -8,11 +8,13 @@
 
 - [**What? Deep Learning**](https://github.com/SNAILGROUP-AI/STUDY-DL/blob/main/description/DL.md)
 
-- [**DNN**](https://github.com/SNAILGROUP-AI/STUDY-ML/blob/main/description/preprocessing.md)
+- [**Activation Function**](https://github.com/SNAILGROUP-AI/STUDY-DL/blob/main/description/activationFunction.md)
 
-- [**CNN**](https://github.com/SNAILGROUP-AI/STUDY-ML/blob/main/description/classification.md)
+- [**DNN**](https://github.com/SNAILGROUP-AI/STUDY-DL/blob/main/description/DNN.md)
 
-- [**RNN**](https://github.com/SNAILGROUP-AI/STUDY-ML/blob/main/description/ensemble.md)
+- [**CNN**](https://github.com/SNAILGROUP-AI/STUDY-DL/blob/main/description/CNN.md)
+
+- [**RNN**](https://github.com/SNAILGROUP-AI/STUDY-DL/blob/main/description/RNN.md)
 
 ---
 
