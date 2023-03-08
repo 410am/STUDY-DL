@@ -8,15 +8,11 @@
 
 - [**What? Deep Learning**](https://github.com/SNAILGROUP-AI/STUDY-DL/blob/main/description/DL.md)
 
-
-
 - [**DNN**](https://github.com/SNAILGROUP-AI/STUDY-ML/blob/main/description/preprocessing.md)
 
 - [**CNN**](https://github.com/SNAILGROUP-AI/STUDY-ML/blob/main/description/classification.md)
 
 - [**RNN**](https://github.com/SNAILGROUP-AI/STUDY-ML/blob/main/description/ensemble.md)
-
-</br>
 
 ---
 
@@ -27,8 +23,6 @@
 👩 [**410am**](https://github.com/410am)
 
 👨 [**wassaa-1**](https://github.com/wassaa-1)
-
-</br>
 
 ---
 
